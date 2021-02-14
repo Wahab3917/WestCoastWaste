@@ -1,6 +1,8 @@
 # Custom WordPress Theme
 https://westcoastwaste.epizy.com/
 
+![](https://github.com/Wahab3917/WestCoastWaste/blob/main/westcoastwaste.png)
+
 ## Description: 
 An E-commerce website of Australia-based company that servers to do bins and disposals.
 
