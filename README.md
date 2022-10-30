@@ -15,5 +15,3 @@ An E-commerce website of Australia-based company that servers to do bins and dis
 
 ## Skills Showing Here: 
 •	  Custom WordPress Theme Development.<br>
-•	  Know how to work with Npm, Gulp, Etc.<br>
-•	  Responsive Design.
