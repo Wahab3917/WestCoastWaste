@@ -51,7 +51,7 @@ $container = get_theme_mod( 'understrap_container_type' );
           <div class="col-lg-7 col-md-6">
             <div class="top-header-contact">
               <a href="tel:1800927831"><i class="fa fa-phone"></i>1800 927 831</a>
-              <a class="top-header-contact-email" href="mailto:info@westcoastwaste.com.au"><i class="fa fa-envelope-o"></i>info@westcoastwaste.com.au</a>
+              <a class="top-header-contact-email" href="mailto:info@westcoastwaste.epizy.com"><i class="fa fa-envelope-o"></i>info@westcoastwaste.epizy.com</a>
 
               <div class="mobile-menu-dropdown">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="<?php esc_attr_e( 'Toggle navigation', 'understrap' ); ?>">
